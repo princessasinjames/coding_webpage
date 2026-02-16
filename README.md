@@ -8,6 +8,6 @@ This code is meant to run if 4 conditions are true:
 
 These folder are all in one shared folder.
 
-# the alternative:
+# The alternative:
 This webpage was designed this way to organize the files it uses. Though, the css file and\
 images could just have their links to the folders removed and be placed into a single folder.
