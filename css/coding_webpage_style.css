@@ -1,0 +1,177 @@
+/* Descriptiom: the CSS code for coding_webpage.html. */
+/* ---- Main: ---- */
+body {
+    background-color: white;
+}
+
+/* For paragraphs */
+p {
+    font-size: 1.2vw;
+    color: black;
+    background-color: white;
+
+    margin-right: 25vw;
+    margin-left: 25vw;
+}
+
+/* ---- Headers: ---- */
+h1 {
+    font-size: 1.2vw;
+    color: black;
+    background-color: white;
+    text-align: right;
+
+    margin-left: 2vw;
+}
+
+/* For topics */
+h2 {
+    font-size: 1.2vw;
+    color: black;
+    background-color: white;
+    text-align: left;
+
+    margin-left: 25vw;
+}
+
+/* For sub titles */
+h3 {
+    font-size: 1.2vw;
+    color: black;
+    background-color: white;
+    text-align: center;
+}
+
+/* ---- Buttons ---- */
+/* For the buttons */
+button {
+    font-size: 1.2vw;
+    color: black;
+    background-color: rgb(224, 224, 224);
+
+    margin-right:2vw;
+    margin-left:2vw;
+}
+
+button:hover {
+    font-size: 1.2vw;
+    background-color: rgb(224, 224, 224);
+}
+
+.red_button:hover {
+    font-size: 1.2vw;
+    background-color: rgb(254, 91, 91);
+}
+
+.orange_button:hover {
+    font-size: 1.2vw;
+    background-color: rgb(251, 199, 86);
+}
+
+.yellow_button:hover {
+    font-size: 1.2vw;
+    background-color: rgb(249, 236, 98);
+}
+
+.green_button:hover {
+    font-size: 1.2vw;
+    background-color: rgb(119, 218, 91);
+}
+
+.blue_button:hover {
+    font-size: 1.2vw;
+    background-color: rgb(86, 205, 251);
+}
+
+.purple_button:hover {
+    font-size: 1.2vw;
+    background-color: rgb(229, 134, 255);
+}
+
+/* ---- Content ---- */
+/* For divs */
+div {
+    font-size: 1.2vw;
+    text-align: center;
+}
+
+/* For the ordered list */
+ol {
+    font-size: 1.2vw;
+}
+
+/* For the biggest text on the page */
+.biggest {
+    font-size: 2vw;
+}
+
+/* For center align */
+.center_align {
+    font-size: 1.2vw;
+    text-align: center;
+    margin-top: 0vw;
+    margin-bottom: 0vw;
+    margin-right: 0vw;
+    margin-left: 0vw;
+}
+
+/* For credits */
+.credits {
+    background-color: white;
+    text-align: left;
+    font-size: .8vw;
+
+    margin-left: 38vw;
+}
+
+/* For large text */
+.large {
+    font-size: 1.4vw;
+
+    margin-top: 0vw;
+    margin-bottom: 0vw;
+    margin-right: 0vw;
+    margin-left: 0vw;
+}
+
+/* For left margins */
+.left {
+    font-size: 1.2vw;
+
+    margin-left: 25vw;
+}
+
+/* For titles */
+.left_align {
+    font-size: 1.2vw;
+
+    margin-left: 25vw;
+}
+
+/* For links */
+.link {
+    font-size: 1.2vw;
+    color: black;
+    text-decoration: none;
+}
+
+/* For lists */
+.list {
+    font-size: 1.2vw;
+    text-align: left;
+
+    margin-left: 45vw;
+}
+
+/* For subtext */
+.sub {
+    text-align: left;
+
+    margin-left: 26vw;
+    margin-right: 26vw;
+}
+
+/* For videos */
+.video {
+    text-align: center;
+}
