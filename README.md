@@ -1,4 +1,4 @@
-# Coding_Webpage
+# Coding_webpage
 # How to run the webpage:
 This code is meant to run if 4 conditions are true:
 1. the html file is in a folder called html
